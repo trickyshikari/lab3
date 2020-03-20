@@ -1,0 +1,39 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "project lab3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trickyshikari/lab3.git"
+  },
+  "keywords": [
+    "lab3"
+  ],
+  "author": "trickyshikari",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "es6-promise": "^4.2.8",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-csscomb": "^3.1.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-merge-media-queries": "^0.2.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/trickyshikari/lab3/issues"
+  },
+  "homepage": "https://github.com/trickyshikari/lab3#readme"
+}
